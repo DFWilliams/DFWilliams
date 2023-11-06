@@ -1,3 +1,5 @@
 <div id="header" align="center">
-<img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajV3ZGR5N3ZsODVrc29jdWhkNDRna3YwNzZjcG9hdHFidXhtbXY1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PkhmTwhgEIBKnVXug/giphy.gif"/>
+<img src= "https://media.giphy.com/media/162vWh1iAb1TfBHWZr/giphy.gif"/>
+<h3> The current vibes </h3>
+  [https://github-profile-apple-music.web.app/api/v1/users/ovKfDyTg7Hr60dertEE4/recent/played/tracks?template=template_1_3](https://github-profile-apple-music.web.app/api/v1/users/ovKfDyTg7Hr60dertEE4/recent/played/tracks?template=template_1_3)
 </div>
