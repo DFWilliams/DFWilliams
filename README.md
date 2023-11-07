@@ -6,11 +6,10 @@
 
 <br>
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **revamping my portfolio**
 
-- 🌱 I’m currently learning **GSAP**
+ 🔭 I’m currently working on **revamping my portfolio**
+ 🌱 I’m currently learning **GSAP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
