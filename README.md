@@ -5,10 +5,11 @@
 [![Spotify](https://github-now-playing-will-git-main-wills-projects-f7b5f741.vercel.app/api/spotify)](https://open.spotify.com/user/31nhvltughdbxcukqtk36q3m3uem) 
 
 <br>
-
+---
 
 
  🔭 I’m currently working on **revamping my portfolio**
+ <br>
  🌱 I’m currently learning **GSAP**
 
 <h3 align="left">Connect with me:</h3>
