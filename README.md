@@ -2,7 +2,7 @@
 <img border-radius=25px src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW85anVrbTB1OTV3MnU5OGE4d3ZlcmlwZGptNDJoenI4a21pb2ZsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qN7Nw35zbptJPs1vHE/giphy.gif"/>
 <br><br> Current Vibes : <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFlOG44NmdheHBtbjJudGhvZWZmbDB6OTd6bHIxZ2UwYTFvNHpkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YlcxTlWHlPWLSneUED/giphy.gif" height="25" width="25"/>  </strong></p>
 
-[![Spotify](https://github-now-playing-will-git-main-wills-projects-f7b5f741.vercel.app/api/spotify)](https://open.spotify.com/user/226sdj3tbuywd4cbms3srsguy) 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=226sdj3tbuywd4cbms3srsguy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=9ede82&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 ---
